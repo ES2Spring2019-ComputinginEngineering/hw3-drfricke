@@ -57,7 +57,7 @@ def almost_equal(A, B):
     # Create your function here.
     if abs(A - B) <= 10**-9:
         return True
-    if abs(A - B) > 10**-9:
+    elif abs(A - B) > 10**-9:
         return False
 
 
