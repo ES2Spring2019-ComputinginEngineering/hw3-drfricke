@@ -3,9 +3,9 @@
 
 # FILL THESE COMMENTS IN
 #*****************************************
-# YOUR NAME:
-# NUMBER OF HOURS TO COMPLETE:  
-# YOUR COLLABORATION STATEMENT(s):
+# YOUR NAME: David Fricke
+# NUMBER OF HOURS TO COMPLETE: 20 mins  
+# YOUR COLLABORATION STATEMENT(s): I worked on this code on my own.
 #
 #
 #*****************************************
